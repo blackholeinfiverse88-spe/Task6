@@ -1,11 +1,9 @@
 # CHARACTER_TEMPLATE.md  
-(BHIV Gaming – Card + Battlefield Character System)
 
 ## 1) Character Name  
 **Name:**  
 (Short, punchy, easy to call out in battle)
 
----
 
 ## 2) Type / Category  
 **Category:**  
@@ -21,7 +19,6 @@
 - Tactician  
 - Saboteur  
 
----
 
 ## 3) Origin (1–2 lines only)  
 **Origin:**  
@@ -30,7 +27,7 @@
 Example:  
 *A former village guard who lost his squad in a border raid.*
 
----
+
 
 ## 4) Dominant Trait  
 **Dominant Trait:**  
@@ -47,7 +44,7 @@ Examples:
 - Silent  
 - Proud  
 
----
+
 
 ## 5) Karma Tendency  
 **Karma Tendency:**  
@@ -59,7 +56,7 @@ Examples:
 Example:  
 **Positive Karma:** Protects weak soldiers even if it costs him advantage.
 
----
+
 
 ## 6) Battlefield Role (Gameplay Purpose)  
 **Battlefield Role:**  
@@ -77,7 +74,7 @@ Examples:
 - Distraction Unit  
 - Counter Unit  
 
----
+
 
 ## 7) Combat Style  
 **Combat Style:**  
@@ -89,7 +86,7 @@ Examples:
 Example:  
 **Melee, Single Target, Fast, Ground**
 
----
+
 
 ## 8) Card Stats (Mandatory Numbers)  
 **Elixir Cost:** (1–8)
@@ -101,7 +98,7 @@ Example:
 **Movement Speed:** slow/medium/fast  
 **Targets:** Ground / Air / Both  
 
----
+
 
 ## 9) Ability (1 Signature Mechanic Only)  
 **Signature Ability:**  
@@ -115,7 +112,7 @@ Rules:
 Example:  
 **Iron Resolve:** Takes 30% less damage for 4 seconds after dropping below 40% HP.
 
----
+
 
 ## 10) Karma Effect (Grounded + Mechanical)  
 **Karma Effect:**  
@@ -127,7 +124,6 @@ Example:
 
 Keep it mechanical, not lore-heavy.
 
----
 
 ## 11) Weakness / Counter  
 **Weakness:**  
@@ -136,7 +132,7 @@ Keep it mechanical, not lore-heavy.
 Example:  
 Weak vs swarm units and long-range archers.
 
----
+
 
 ## 12) Visual Identity Notes (For Artists)  
 **Visual Notes:**  
@@ -149,14 +145,13 @@ Weak vs swarm units and long-range archers.
 Example:  
 Wears torn saffron scarf, wooden shield, heavy iron mace, scar on cheek.
 
----
 
 ## 13) One-Line Player Description (UI Text)  
 **Card Description (1 line):**  
 Example:  
 *A disciplined frontline warrior who refuses to fall easily.*
 
----
+
 
 # OPTIONAL (If Needed)
 
