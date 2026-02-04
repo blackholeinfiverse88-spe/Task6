@@ -151,12 +151,7 @@ Wears torn saffron scarf, wooden shield, heavy iron mace, scar on cheek.
 Example:  
 *A disciplined frontline warrior who refuses to fall easily.*
 
-
-
-# OPTIONAL (If Needed)
-
-## AI Behavior Tags  
-**AI Tags:**  
+##  Behavior Tags   
 - Aggressive  
 - Defensive  
 - Supportive  
