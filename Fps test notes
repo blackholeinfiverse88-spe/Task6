@@ -1,0 +1,37 @@
+FPS TEST NOTE 1 — Normal Match (Baseline)
+
+Mode: Normal Match
+
+Scenario: Standard 1v1 deployment with mixed melee + ranged units
+
+Observation: FPS stayed stable throughout normal combat loop.
+
+Performance Behavior: No stutter while units were attacking, pathfinding, or using abilities.
+
+Conclusion: Baseline gameplay performance is stable and safe for demo.
+
+
+FPS TEST NOTE 2 — Overtime Stress (High Load)
+
+Mode: Overtime
+
+Scenario: Increased unit density + continuous combat + more frequent attacks
+
+Observation: FPS remained within acceptable range, only minor dips during heavy simultaneous attack animations.
+
+Performance Behavior: No frame freezing, no noticeable lag spikes.
+
+Conclusion: Overtime load does not break FPS stability; system handles combat pressure smoothly.
+
+
+FPS TEST NOTE 3 — Restart Cycle (Memory + Cleanup Test)
+
+Mode: Restart Cycle
+
+Scenario: Restarted match multiple times with repeated spawn/death loops
+
+Observation: FPS remained consistent across restarts, no progressive FPS drop.
+
+Performance Behavior: No signs of memory leak, object duplication, or leftover units affecting performance.
+
+Conclusion: Restart cleanup is stable; demo-safe with no FPS degradation over multiple cycles.
