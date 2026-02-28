@@ -1,0 +1,99 @@
+All characters inside the /troops directory have been successfully imported and partially integrated into the gameplay system.
+
+Core data structures and scripts are attached, but characters are not yet animation-complete or validated in live matches.
+
+Current Integration State
+
+
+For all characters listed below:
+
+3D Models Imported
+
+Prefabs Created
+
+ ScriptableObjects Attached
+
+Core Gameplay Scripts Attached
+
+ No Animator Controllers / Animations Added
+
+ Not validated in live battlefield matches
+
+ Not VR tested
+
+ No performance certification performed
+
+
+Troops Included:
+
+andhaka
+
+aranya rakshi
+
+Dasha Mukha
+
+Demon
+
+Demon Dog
+
+Demon madhu
+
+Dyut Vakta
+
+Gandharva songstress
+
+Karna
+
+Kavach Bhedi
+
+king indradyumna
+
+king marutta
+
+king Prithu
+
+king Pururavas
+
+Mahanidra
+
+Maria (Sword Slasher)
+
+Maya Danava
+
+Mayendra
+
+Rakshasa Shapeshifter
+
+Ratha marg
+
+Ratna shapta
+
+Sage Dadhichi
+
+Satyavati
+
+Satyawati
+
+Vana Rakshak
+
+Vena The Corrupt
+
+Vrishaparva
+
+yaksha guardian
+
+Yuvraj
+
+Technical Status
+
+Stat data is controlled via ScriptableObjects
+
+Combat logic scripts are attached
+
+Units are structurally ready for gameplay testing
+
+Animation and visual polish phase pending
+
+
+
+All troop characters are data-integrated and script-linked but are not yet animation-complete or production-certified.
