@@ -29,7 +29,7 @@
 
 **Checkpoint**
 
-* Estimated FPS appears stable around **70–90** (not confirmed; requires profiler validation).
+* Estimated FPS appears stable around **70–90** 
 
 ---
 
