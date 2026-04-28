@@ -199,16 +199,16 @@ Observer watches gameplay with **no explanation**
 
 ### **Results**
 
-* Can identify which unit is winning ✔
-* Can understand behavior differences ✔
-* Can infer cause of outcome ✔
-* Can visually follow combat flow without UI guidance ✔
+* Can identify which unit is winning 
+* Can understand behavior differences 
+* Can infer cause of outcome 
+* Can visually follow combat flow without UI guidance 
 
 ### **Conclusion**
 
-✔ Gameplay is self-explanatory through visuals
-✔ No dependency on external explanation
-✔ Runtime behavior remains visually understandable
+ Gameplay is self-explanatory through visuals
+ No dependency on external explanation
+ Runtime behavior remains visually understandable
 
 ---
 
